@@ -1,4 +1,6 @@
-
+"""
+A simple python script that generates a word cloud based on the text input in the comma separated format
+"""
 
 # Import necessary libraries
 from wordcloud import WordCloud
