@@ -1,0 +1,1 @@
+Split the data into bins using pandas qcut anc cut methods
