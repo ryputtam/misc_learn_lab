@@ -1,3 +1,4 @@
+[In progress]
 Implementation of logistic regression from sparkMLLib. This notebook includes
 1. Data Loading
 2. Data Exploration
